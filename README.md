@@ -1,12 +1,8 @@
-# Client side for the decentral-dropoff-track
+# Server side for the decentral-dropoff-track
 
 In the project directory, you can run:
 
 ### `npm start`
-
-# OR
-
-### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
